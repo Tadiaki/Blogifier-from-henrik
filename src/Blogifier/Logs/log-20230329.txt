@@ -1,0 +1,62 @@
+2023-03-29 13:07:34.656 +02:00 [WRN] Application start
+2023-03-29 13:07:34.679 +02:00 [WRN] Start configure services
+2023-03-29 13:07:34.817 +02:00 [WRN] Done configure services
+2023-03-29 13:07:38.025 +02:00 [INF] Current directory path: C:\Users\n0m1z\Documents\GitHub\Blogifier-from-henrik\src\Blogifier
+2023-03-29 13:07:38.034 +02:00 [INF] Development debug path: C:\Users\n0m1z\Documents\GitHub\Blogifier-from-henrik\src\Blogifier
+2023-03-29 13:07:38.216 +02:00 [INF] Current directory path: C:\Users\n0m1z\Documents\GitHub\Blogifier-from-henrik\src\Blogifier
+2023-03-29 13:07:38.216 +02:00 [INF] Development debug path: C:\Users\n0m1z\Documents\GitHub\Blogifier-from-henrik\src\Blogifier
+2023-03-29 13:07:47.546 +02:00 [WRN] Verifying password for admin@example.com
+2023-03-29 13:07:47.588 +02:00 [WRN] Successful login for admin@example.com
+2023-03-29 13:07:47.606 +02:00 [INF] Current directory path: C:\Users\n0m1z\Documents\GitHub\Blogifier-from-henrik\src\Blogifier
+2023-03-29 13:07:47.606 +02:00 [INF] Development debug path: C:\Users\n0m1z\Documents\GitHub\Blogifier-from-henrik\src\Blogifier
+2023-03-29 13:08:28.741 +02:00 [INF] Current directory path: C:\Users\n0m1z\Documents\GitHub\Blogifier-from-henrik\src\Blogifier
+2023-03-29 13:08:28.741 +02:00 [INF] Development debug path: C:\Users\n0m1z\Documents\GitHub\Blogifier-from-henrik\src\Blogifier
+2023-03-29 13:08:28.771 +02:00 [INF] Current directory path: C:\Users\n0m1z\Documents\GitHub\Blogifier-from-henrik\src\Blogifier
+2023-03-29 13:08:28.771 +02:00 [INF] Development debug path: C:\Users\n0m1z\Documents\GitHub\Blogifier-from-henrik\src\Blogifier
+2023-03-29 13:26:54.821 +02:00 [WRN] Application start
+2023-03-29 13:26:54.843 +02:00 [WRN] Start configure services
+2023-03-29 13:26:54.863 +02:00 [WRN] Done configure services
+2023-03-29 13:26:58.111 +02:00 [INF] Current directory path: C:\Users\n0m1z\Documents\GitHub\Blogifier-from-henrik\src\blogifier
+2023-03-29 13:26:58.120 +02:00 [INF] Final path: C:\Users\n0m1z\Documents\GitHub\Blogifier-from-henrik\src\blogifier
+2023-03-29 13:26:58.296 +02:00 [INF] Current directory path: C:\Users\n0m1z\Documents\GitHub\Blogifier-from-henrik\src\blogifier
+2023-03-29 13:26:58.296 +02:00 [INF] Final path: C:\Users\n0m1z\Documents\GitHub\Blogifier-from-henrik\src\blogifier
+2023-03-29 13:27:07.390 +02:00 [WRN] Verifying password for admin@example.com
+2023-03-29 13:27:07.431 +02:00 [WRN] Successful login for admin@example.com
+2023-03-29 13:27:07.449 +02:00 [INF] Current directory path: C:\Users\n0m1z\Documents\GitHub\Blogifier-from-henrik\src\blogifier
+2023-03-29 13:27:07.449 +02:00 [INF] Final path: C:\Users\n0m1z\Documents\GitHub\Blogifier-from-henrik\src\blogifier
+2023-03-29 13:27:22.592 +02:00 [INF] Current directory path: C:\Users\n0m1z\Documents\GitHub\Blogifier-from-henrik\src\blogifier
+2023-03-29 13:27:22.592 +02:00 [INF] Final path: C:\Users\n0m1z\Documents\GitHub\Blogifier-from-henrik\src\blogifier
+2023-03-29 13:27:22.594 +02:00 [INF] Current directory path: C:\Users\n0m1z\Documents\GitHub\Blogifier-from-henrik\src\blogifier
+2023-03-29 13:27:22.594 +02:00 [INF] Final path: C:\Users\n0m1z\Documents\GitHub\Blogifier-from-henrik\src\blogifier
+2023-03-29 13:27:28.332 +02:00 [INF] Current directory path: C:\Users\n0m1z\Documents\GitHub\Blogifier-from-henrik\src\blogifier
+2023-03-29 13:27:28.332 +02:00 [INF] Final path: C:\Users\n0m1z\Documents\GitHub\Blogifier-from-henrik\src\blogifier
+2023-03-29 13:27:28.333 +02:00 [INF] Current directory path: C:\Users\n0m1z\Documents\GitHub\Blogifier-from-henrik\src\blogifier
+2023-03-29 13:27:28.333 +02:00 [INF] Final path: C:\Users\n0m1z\Documents\GitHub\Blogifier-from-henrik\src\blogifier
+2023-03-29 13:27:35.596 +02:00 [INF] Current directory path: C:\Users\n0m1z\Documents\GitHub\Blogifier-from-henrik\src\blogifier
+2023-03-29 13:27:35.596 +02:00 [INF] Final path: C:\Users\n0m1z\Documents\GitHub\Blogifier-from-henrik\src\blogifier
+2023-03-29 13:27:35.596 +02:00 [INF] Current directory path: C:\Users\n0m1z\Documents\GitHub\Blogifier-from-henrik\src\blogifier
+2023-03-29 13:27:35.596 +02:00 [INF] Final path: C:\Users\n0m1z\Documents\GitHub\Blogifier-from-henrik\src\blogifier
+2023-03-29 13:34:54.801 +02:00 [INF] Current directory path: C:\Users\n0m1z\Documents\GitHub\Blogifier-from-henrik\src\blogifier
+2023-03-29 13:34:54.801 +02:00 [INF] Final path: C:\Users\n0m1z\Documents\GitHub\Blogifier-from-henrik\src\blogifier
+2023-03-29 13:34:54.803 +02:00 [INF] Current directory path: C:\Users\n0m1z\Documents\GitHub\Blogifier-from-henrik\src\blogifier
+2023-03-29 13:34:54.803 +02:00 [INF] Final path: C:\Users\n0m1z\Documents\GitHub\Blogifier-from-henrik\src\blogifier
+2023-03-29 13:35:47.310 +02:00 [INF] Current directory path: C:\Users\n0m1z\Documents\GitHub\Blogifier-from-henrik\src\blogifier
+2023-03-29 13:35:47.310 +02:00 [INF] Final path: C:\Users\n0m1z\Documents\GitHub\Blogifier-from-henrik\src\blogifier
+2023-03-29 13:35:47.311 +02:00 [INF] Current directory path: C:\Users\n0m1z\Documents\GitHub\Blogifier-from-henrik\src\blogifier
+2023-03-29 13:35:47.311 +02:00 [INF] Final path: C:\Users\n0m1z\Documents\GitHub\Blogifier-from-henrik\src\blogifier
+2023-03-29 13:39:52.925 +02:00 [INF] Current directory path: C:\Users\n0m1z\Documents\GitHub\Blogifier-from-henrik\src\blogifier
+2023-03-29 13:39:52.925 +02:00 [INF] Final path: C:\Users\n0m1z\Documents\GitHub\Blogifier-from-henrik\src\blogifier
+2023-03-29 13:39:52.926 +02:00 [INF] Current directory path: C:\Users\n0m1z\Documents\GitHub\Blogifier-from-henrik\src\blogifier
+2023-03-29 13:39:52.926 +02:00 [INF] Final path: C:\Users\n0m1z\Documents\GitHub\Blogifier-from-henrik\src\blogifier
+2023-03-29 13:40:48.244 +02:00 [INF] Current directory path: C:\Users\n0m1z\Documents\GitHub\Blogifier-from-henrik\src\blogifier
+2023-03-29 13:40:48.244 +02:00 [INF] Final path: C:\Users\n0m1z\Documents\GitHub\Blogifier-from-henrik\src\blogifier
+2023-03-29 13:40:48.245 +02:00 [INF] Current directory path: C:\Users\n0m1z\Documents\GitHub\Blogifier-from-henrik\src\blogifier
+2023-03-29 13:40:48.245 +02:00 [INF] Final path: C:\Users\n0m1z\Documents\GitHub\Blogifier-from-henrik\src\blogifier
+2023-03-29 13:41:56.981 +02:00 [INF] Current directory path: C:\Users\n0m1z\Documents\GitHub\Blogifier-from-henrik\src\blogifier
+2023-03-29 13:41:56.981 +02:00 [INF] Final path: C:\Users\n0m1z\Documents\GitHub\Blogifier-from-henrik\src\blogifier
+2023-03-29 13:41:56.982 +02:00 [INF] Current directory path: C:\Users\n0m1z\Documents\GitHub\Blogifier-from-henrik\src\blogifier
+2023-03-29 13:41:56.982 +02:00 [INF] Final path: C:\Users\n0m1z\Documents\GitHub\Blogifier-from-henrik\src\blogifier
+2023-03-29 13:43:06.212 +02:00 [INF] Current directory path: C:\Users\n0m1z\Documents\GitHub\Blogifier-from-henrik\src\blogifier
+2023-03-29 13:43:06.212 +02:00 [INF] Final path: C:\Users\n0m1z\Documents\GitHub\Blogifier-from-henrik\src\blogifier
+2023-03-29 13:43:06.213 +02:00 [INF] Current directory path: C:\Users\n0m1z\Documents\GitHub\Blogifier-from-henrik\src\blogifier
+2023-03-29 13:43:06.213 +02:00 [INF] Final path: C:\Users\n0m1z\Documents\GitHub\Blogifier-from-henrik\src\blogifier
